@@ -1,0 +1,43 @@
+body {
+margin: 0;
+}
+#header {
+position: relative;
+background: #CCC;
+padding: 6px 0 15px 0;
+}
+#userInfo {
+float: right;
+position: absolute;
+right: 10px;
+bottom: 15px;
+}
+#title {
+font-size: 42px;
+text-align: center;
+}
+#content {
+padding: 20px 35px;
+}
+#left {
+float: left;
+width: 100px;
+}
+.leftItem {
+background: #CCC;
+margin: 6px;
+padding: 2px;
+}
+#body {
+margin-left: 120px;
+margin-right: 50px;
+}
+#bodyTitle {
+text-align: center;
+font-weight: bold;
+}
+#footer {
+clear: both;
+margin: 10px 0 5px 0;
+text-align: center;
+}
