@@ -1,0 +1,38 @@
+body{
+	background-color: #F2F2F3;
+	text-align: center;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+}
+#body{
+	height: 600px;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(../world_map.png) no-repeat center;
+}
+h1{
+	padding-top: 55px;
+}
+h3{
+	padding-top: 20px;
+}
+h5{
+	padding-top: 190px;
+}
+input {
+	width: 240px;
+	height: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.button {
+	margin-top: 10px;
+	width: 240px;
+	line-height: 33px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	background-color: rgb(38,40,69);
+	border: 2px rgb(38,40,69) solid;
+}
