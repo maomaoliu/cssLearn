@@ -22,6 +22,8 @@ h5{
 input {
 	width: 240px;
 	height: 30px;
+	line-height: 30px;
+	font-size: 1.3em;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
