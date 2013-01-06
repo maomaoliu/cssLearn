@@ -20,13 +20,14 @@ h5{
 	padding-top: 190px;
 }
 input {
-	width: 240px;
+	width: 224px;
 	height: 30px;
 	line-height: 30px;
 	font-size: 1.3em;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 2px 8px;
 }
 .button {
 	margin-top: 10px;
